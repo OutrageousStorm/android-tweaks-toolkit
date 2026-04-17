@@ -1,0 +1,10 @@
+{
+  "name": "android-tweaks-dashboard",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": { "adb-dashboard": "dashboard.js" },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "chalk": "^5.3.0"
+  }
+}
